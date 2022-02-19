@@ -47,7 +47,7 @@ ciclistaPrincipal.addAnimation("SahilRunning",img1CiclistaPrincipal);
 ciclistaPrincipal.scale=0.07;
   
   //definir collider para o ciclista
-  ciclistaPrincipal.debug = true;
+  ciclistaPrincipal.debug = false;
 
   
 fimdeJogo = createSprite(650,150);
